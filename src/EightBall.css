@@ -1,0 +1,27 @@
+.red{
+    color: rgb(187, 1, 1);
+    text-shadow: 1px 2px 0px black;
+}
+
+.green{
+    color: rgb(27, 175, 27);
+    text-shadow: 1px 2px 0px black;
+}
+
+.goldenrod{
+    color: goldenrod;
+    text-shadow: 1px 2px 0px black;
+}
+
+.black{
+    color: black;
+    
+}
+
+.word{
+    font-size: 1.1rem;
+    font-weight: 700;
+    letter-spacing: 1.3px;
+    word-spacing: 1px;
+    
+}
